@@ -15,17 +15,6 @@ This project processes **hotel booking data**, extracts key insights, and enable
 
 ---
 
-## **Project Structure**  
-```
-/hotel-booking-analysis/
-│── app.py                  # FastAPI Implementation  
-│── preprocess.py           # Data Preprocessing & Cleaning  
-│── analytics.py            # Revenue Trends, Cancellations, Lead Time Analysis  
-│── rag.py                  # FAISS + LLM for Query Answering  
-│── requirements.txt        # Required Dependencies  
-│── hotel_bookings.csv      # Sample Dataset  
-│── README.md               # Project Documentation  
-```
 
 ---
 
@@ -38,9 +27,7 @@ cd hotel-booking-analysis
 ```
 
 ### **2. Install Required Dependencies**  
-```bash
-pip install -r requirements.txt
-```
+
 Dependencies include:  
 - `fastapi` (API framework)  
 - `uvicorn` (ASGI server)  
