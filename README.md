@@ -98,7 +98,6 @@ Example Response:
 - **Cancellation rate as a percentage of total bookings**  
 - **Geographical distribution of bookings (Top countries)**  
 - **Booking Lead time distribution (Average days before arrival)**  
-- **Additional analytics (e.g., seasonal trends, most popular booking months)**  
 
 ---
 
